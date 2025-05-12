@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BudgetTracker</string>
+    <string name="title_activity_budjet_tracker_acivity">BudjetTrackerAcivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="titile">MY BUDGET TRACKER</string>
+</resources>
